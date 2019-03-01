@@ -1,0 +1,12 @@
+D:\REPOs\Evento\Evento.Infrastructure\bin\Debug\netcoreapp2.2\Evento.Infrastructure.deps.json
+D:\REPOs\Evento\Evento.Infrastructure\bin\Debug\netcoreapp2.2\Evento.Infrastructure.dll
+D:\REPOs\Evento\Evento.Infrastructure\bin\Debug\netcoreapp2.2\Evento.Infrastructure.pdb
+D:\REPOs\Evento\Evento.Infrastructure\bin\Debug\netcoreapp2.2\Evento.Core.dll
+D:\REPOs\Evento\Evento.Infrastructure\bin\Debug\netcoreapp2.2\Evento.Core.pdb
+D:\REPOs\Evento\Evento.Infrastructure\obj\Debug\netcoreapp2.2\Evento.Infrastructure.csprojAssemblyReference.cache
+D:\REPOs\Evento\Evento.Infrastructure\obj\Debug\netcoreapp2.2\Evento.Infrastructure.csproj.CoreCompileInputs.cache
+D:\REPOs\Evento\Evento.Infrastructure\obj\Debug\netcoreapp2.2\Evento.Infrastructure.AssemblyInfoInputs.cache
+D:\REPOs\Evento\Evento.Infrastructure\obj\Debug\netcoreapp2.2\Evento.Infrastructure.AssemblyInfo.cs
+D:\REPOs\Evento\Evento.Infrastructure\obj\Debug\netcoreapp2.2\Evento.Infrastructure.csproj.CopyComplete
+D:\REPOs\Evento\Evento.Infrastructure\obj\Debug\netcoreapp2.2\Evento.Infrastructure.dll
+D:\REPOs\Evento\Evento.Infrastructure\obj\Debug\netcoreapp2.2\Evento.Infrastructure.pdb

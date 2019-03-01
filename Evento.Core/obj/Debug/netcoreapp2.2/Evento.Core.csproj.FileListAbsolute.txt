@@ -1,0 +1,9 @@
+D:\REPOs\Evento\Evento.Core\bin\Debug\netcoreapp2.2\Evento.Core.deps.json
+D:\REPOs\Evento\Evento.Core\bin\Debug\netcoreapp2.2\Evento.Core.dll
+D:\REPOs\Evento\Evento.Core\bin\Debug\netcoreapp2.2\Evento.Core.pdb
+D:\REPOs\Evento\Evento.Core\obj\Debug\netcoreapp2.2\Evento.Core.csprojAssemblyReference.cache
+D:\REPOs\Evento\Evento.Core\obj\Debug\netcoreapp2.2\Evento.Core.csproj.CoreCompileInputs.cache
+D:\REPOs\Evento\Evento.Core\obj\Debug\netcoreapp2.2\Evento.Core.AssemblyInfoInputs.cache
+D:\REPOs\Evento\Evento.Core\obj\Debug\netcoreapp2.2\Evento.Core.AssemblyInfo.cs
+D:\REPOs\Evento\Evento.Core\obj\Debug\netcoreapp2.2\Evento.Core.dll
+D:\REPOs\Evento\Evento.Core\obj\Debug\netcoreapp2.2\Evento.Core.pdb
